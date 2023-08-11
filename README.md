@@ -1,2 +1,2 @@
-# THM2
-Los 8 mas odiados
+# IADB_Project_Template
+Plantilla proyectos OEA CEPAL Banco Interamericano de Desarrollo
